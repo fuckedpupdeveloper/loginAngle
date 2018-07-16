@@ -15,7 +15,7 @@
             android:layout_height="match_parent"
             android:fontFamily="sans-serif-smallcaps"
             android:gravity="center"
-            android:text="Showing all Banglore promoters"
+            android:text="Showing all Banglore promoter"
             android:textColor="@color/black"
             android:textSize="15dp"
             android:textStyle="bold"
