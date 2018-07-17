@@ -9,7 +9,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:largeHeap="true"
-
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
@@ -54,7 +54,8 @@
         <activity android:name=".fashion_cat" />
         <activity android:name=".event" />
         <activity android:name=".cafe" />
-        <activity android:name=".ngp"></activity>
+        <activity android:name=".ngp" />
+        <activity android:name=".setupActivity"></activity>
     </application>
 
 </manifest>

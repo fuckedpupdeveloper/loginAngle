@@ -151,6 +151,7 @@ Message me today to get started! "
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
+            android:id="@id/athravApply"
             android:text="Apply"
             android:textColor="@color/white"
             android:textSize="20dp" />

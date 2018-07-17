@@ -15,6 +15,7 @@ public class athrav_info extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_athrav_info);
 
+
         apply = findViewById(R.id.athravApply);
         apply.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -23,4 +24,9 @@ public class athrav_info extends AppCompatActivity {
             }
         });
     }
+
+
+
+
+
 }
