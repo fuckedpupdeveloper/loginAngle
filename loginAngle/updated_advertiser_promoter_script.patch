@@ -1,0 +1,16 @@
+Index: loginAngle/app/src/main/res/layout/activity_pramoter.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- loginAngle/app/src/main/res/layout/activity_pramoter.xml	(date 1531856759000)
++++ loginAngle/app/src/main/res/layout/activity_pramoter.xml	(date 1531856847765)
+@@ -46,7 +46,7 @@
+ android:layout_gravity="start"
+ android:id="@+id/navigation_view">
+ 
+-</android.support.design.widget.NavigationView>
++</android.support.design.widget.NavigationView >
+ 
+ 
+ 
